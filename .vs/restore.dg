@@ -1,0 +1,12 @@
+#:C:\Users\emrehorasan\Desktop\Repository\Greysis.Web\Greysis.Web.xproj
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Web\Greysis.Web.xproj|C:\Users\emrehorasan\Desktop\Repository\Greysis.Base\Greysis.Base.csproj
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Web\Greysis.Web.xproj|C:\Users\emrehorasan\Desktop\Repository\Greysis.Core\Greysis.Core.csproj
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Web\Greysis.Web.xproj|C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\Greysis.Domain.csproj
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Web\Greysis.Web.xproj|C:\Users\emrehorasan\Desktop\Repository\Greysis.Infrastructure\Greysis.Infrastructure.csproj
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Web\Greysis.Web.xproj|C:\Users\emrehorasan\Desktop\Repository\Greysis.Services\Greysis.Services.csproj
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\Greysis.Domain.csproj|C:\Users\emrehorasan\Desktop\Repository\Greysis.Core\Greysis.Core.csproj
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Infrastructure\Greysis.Infrastructure.csproj|C:\Users\emrehorasan\Desktop\Repository\Greysis.Core\Greysis.Core.csproj
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Infrastructure\Greysis.Infrastructure.csproj|C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\Greysis.Domain.csproj
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Services\Greysis.Services.csproj|C:\Users\emrehorasan\Desktop\Repository\Greysis.Core\Greysis.Core.csproj
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Services\Greysis.Services.csproj|C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\Greysis.Domain.csproj
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Services\Greysis.Services.csproj|C:\Users\emrehorasan\Desktop\Repository\Greysis.Infrastructure\Greysis.Infrastructure.csproj

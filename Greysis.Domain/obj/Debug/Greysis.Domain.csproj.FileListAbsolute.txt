@@ -1,0 +1,54 @@
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Domain\bin\Debug\Greysis.Domain.dll
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Domain\bin\Debug\Greysis.Domain.pdb
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Domain\obj\Debug\Greysis.Domain.csprojResolveAssemblyReference.cache
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Domain\obj\Debug\Greysis.Domain.dll
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Domain\obj\Debug\Greysis.Domain.pdb
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Domain\bin\Debug\Greysis.Core.dll
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Domain\bin\Debug\Dapper.SimpleCRUD.dll
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Domain\bin\Debug\Dapper.dll
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Domain\bin\Debug\Greysis.Core.pdb
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Domain\bin\Debug\Dapper.SimpleCRUD.pdb
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Domain\bin\Debug\Dapper.SimpleCRUD.xml
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Domain\bin\Debug\Dapper.xml
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Domain\bin\Debug\Autofac.dll
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Domain\bin\Debug\Autofac.xml
+C:\Users\admin\Desktop\Greysis\Greysis.Domain\bin\Debug\Greysis.Domain.dll
+C:\Users\admin\Desktop\Greysis\Greysis.Domain\bin\Debug\Greysis.Domain.pdb
+C:\Users\admin\Desktop\Greysis\Greysis.Domain\bin\Debug\Greysis.Core.dll
+C:\Users\admin\Desktop\Greysis\Greysis.Domain\bin\Debug\Autofac.dll
+C:\Users\admin\Desktop\Greysis\Greysis.Domain\bin\Debug\Dapper.SimpleCRUD.dll
+C:\Users\admin\Desktop\Greysis\Greysis.Domain\bin\Debug\Greysis.Core.pdb
+C:\Users\admin\Desktop\Greysis\Greysis.Domain\bin\Debug\Autofac.xml
+C:\Users\admin\Desktop\Greysis\Greysis.Domain\bin\Debug\Dapper.SimpleCRUD.pdb
+C:\Users\admin\Desktop\Greysis\Greysis.Domain\bin\Debug\Dapper.SimpleCRUD.xml
+C:\Users\admin\Desktop\Greysis\Greysis.Domain\obj\Debug\Greysis.Domain.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Greysis\Greysis.Domain\obj\Debug\Greysis.Domain.dll
+C:\Users\admin\Desktop\Greysis\Greysis.Domain\obj\Debug\Greysis.Domain.pdb
+D:\Code\VS\Repository\Greysis.Domain\bin\Debug\Greysis.Domain.dll
+D:\Code\VS\Repository\Greysis.Domain\bin\Debug\Greysis.Domain.pdb
+D:\Code\VS\Repository\Greysis.Domain\bin\Debug\Greysis.Core.dll
+D:\Code\VS\Repository\Greysis.Domain\bin\Debug\Dapper.SimpleCRUD.dll
+D:\Code\VS\Repository\Greysis.Domain\bin\Debug\Autofac.dll
+D:\Code\VS\Repository\Greysis.Domain\bin\Debug\Greysis.Core.pdb
+D:\Code\VS\Repository\Greysis.Domain\bin\Debug\Dapper.SimpleCRUD.pdb
+D:\Code\VS\Repository\Greysis.Domain\bin\Debug\Dapper.SimpleCRUD.xml
+D:\Code\VS\Repository\Greysis.Domain\bin\Debug\Autofac.xml
+D:\Code\VS\Repository\Greysis.Domain\obj\Debug\Greysis.Domain.csprojResolveAssemblyReference.cache
+D:\Code\VS\Repository\Greysis.Domain\obj\Debug\Greysis.Domain.dll
+D:\Code\VS\Repository\Greysis.Domain\obj\Debug\Greysis.Domain.pdb
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\bin\Debug\Greysis.Domain.dll
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\bin\Debug\Greysis.Domain.pdb
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\bin\Debug\Greysis.Core.dll
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\bin\Debug\Greysis.Core.pdb
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\obj\Debug\Greysis.Domain.csprojResolveAssemblyReference.cache
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\obj\Debug\Greysis.Domain.dll
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\obj\Debug\Greysis.Domain.pdb
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\bin\Debug\NHibernate.dll
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\bin\Debug\EntityFramework.dll
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\bin\Debug\Iesi.Collections.dll
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\bin\Debug\NHibernate.xml
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\bin\Debug\EntityFramework.xml
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\bin\Debug\Iesi.Collections.xml
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\bin\Debug\Dapper.SimpleCRUD.dll
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\bin\Debug\Dapper.SimpleCRUD.pdb
+C:\Users\emrehorasan\Desktop\Repository\Greysis.Domain\bin\Debug\Dapper.SimpleCRUD.xml

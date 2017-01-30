@@ -1,0 +1,5 @@
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Base\bin\Debug\Greysis.Base.dll
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Base\bin\Debug\Greysis.Base.pdb
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Base\obj\Debug\Greysis.Base.csprojResolveAssemblyReference.cache
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Base\obj\Debug\Greysis.Base.dll
+c:\Users\emreh\OneDrive\Belgeler\Visual Studio 2015\Projects\Greysis\Greysis.Base\obj\Debug\Greysis.Base.pdb

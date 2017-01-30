@@ -1,0 +1,109 @@
+{
+  "version": 2,
+  "exports": {
+    "Greysis.Base/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.2",
+      "compile": {
+        "bin/Debug/Greysis.Base.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/Greysis.Base.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/Greysis.Base.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "Greysis.Core/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.2",
+      "compile": {
+        "bin/Debug/Greysis.Core.dll": {}
+      },
+      "runtime": {
+        "../packages/Autofac.4.3.0/lib/net45/Autofac.dll": {},
+        "../packages/Dapper.1.50.2/lib/net451/Dapper.dll": {},
+        "../packages/Dapper.SimpleCRUD.1.13.0/lib/net45/Dapper.SimpleCRUD.dll": {},
+        "../packages/EntityFramework.6.1.3/lib/net45/EntityFramework.SqlServer.dll": {},
+        "../packages/EntityFramework.6.1.3/lib/net45/EntityFramework.dll": {},
+        "../packages/Iesi.Collections.4.0.0.4000/lib/net40/Iesi.Collections.dll": {},
+        "../packages/NHibernate.4.1.0.4000/lib/net40/NHibernate.dll": {},
+        "bin/Debug/Greysis.Core.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/Greysis.Core.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "Greysis.Domain/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.2",
+      "compile": {
+        "bin/Debug/Greysis.Domain.dll": {}
+      },
+      "runtime": {
+        "bin/Debug/Greysis.Domain.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/Greysis.Domain.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "Greysis.Infrastructure/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.2",
+      "compile": {
+        "bin/Debug/Greysis.Infrastructure.dll": {}
+      },
+      "runtime": {
+        "../packages/Autofac.4.3.0/lib/net45/Autofac.dll": {},
+        "../packages/Dapper.1.50.2/lib/net451/Dapper.dll": {},
+        "../packages/Dapper.SimpleCRUD.1.13.0/lib/net45/Dapper.SimpleCRUD.dll": {},
+        "../packages/EntityFramework.6.1.3/lib/net45/EntityFramework.SqlServer.dll": {},
+        "../packages/EntityFramework.6.1.3/lib/net45/EntityFramework.dll": {},
+        "../packages/FluentNHibernate.2.0.3.0/lib/net40/FluentNHibernate.dll": {},
+        "../packages/Iesi.Collections.4.0.0.4000/lib/net40/Iesi.Collections.dll": {},
+        "../packages/NHibernate.4.1.0.4000/lib/net40/NHibernate.dll": {},
+        "bin/Debug/Greysis.Infrastructure.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/Greysis.Infrastructure.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    },
+    "Greysis.Services/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.2",
+      "compile": {
+        "bin/Debug/Greysis.Services.dll": {}
+      },
+      "runtime": {
+        "../packages/Autofac.4.3.0/lib/net45/Autofac.dll": {},
+        "../packages/Autofac.Extras.DynamicProxy.4.1.0/lib/net45/Autofac.Extras.DynamicProxy.dll": {},
+        "../packages/Castle.Core.3.2.2/lib/net45/Castle.Core.dll": {},
+        "../packages/FluentValidation.6.2.1.0/lib/Net45/FluentValidation.dll": {},
+        "bin/Debug/Greysis.Services.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/Greysis.Services.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        }
+      }
+    }
+  }
+}
